@@ -330,3 +330,15 @@ button:hover {
     }
 
 }
+
+@media (max-width: 768px) {
+
+  body {
+
+    background-position: right center;
+
+    background-attachment: scroll;
+
+  }
+
+}
