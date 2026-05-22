@@ -333,12 +333,30 @@ button:hover {
 
 @media (max-width: 768px) {
 
-  body {
+    body {
 
-    background-position: right center;
+        background-position: right center;
 
-    background-attachment: scroll;
+        background-attachment: scroll;
 
-  }
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .hero h1 {
+
+        font-size: 55px;
+        padding-top: 120px;
+        word-wrap: break-word;
+
+    }
+
+    section {
+
+        padding: 60px 7%;
+
+    }
 
 }
