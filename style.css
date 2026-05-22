@@ -347,9 +347,11 @@ button:hover {
 
     .hero h1 {
 
-        font-size: 55px;
+        font-size: 45px;
         padding-top: 120px;
         word-wrap: break-word;
+        max-width: 100%;
+        line-height: 1.2;
 
     }
 
